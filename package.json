@@ -20,7 +20,7 @@
     "url": "https://github.com/bobr1k92/node-hw-1/issues"
   },
   "homepage": "https://github.com/bobr1k92/node-hw-1#readme",
-  "description": "",
+  "description": "list: https://monosnap.com/file/DjE5sxByh0GWEzeXYYqoF7Vff7hW0e",
   "dependencies": {
     "commander": "^11.0.0",
     "nanoid": "^4.0.2",
